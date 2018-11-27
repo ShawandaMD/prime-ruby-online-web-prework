@@ -1,5 +1,21 @@
 require "pry"
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def prime?(x)
   x = 1..
   while x <= 1 || (x > 3 && x % x == 0 && ( x % 2 == 0 || x % 3 == 0 ))
