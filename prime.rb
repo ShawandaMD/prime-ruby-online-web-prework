@@ -6,10 +6,15 @@ require "pry"
 # prime is true and if it's not its false
 
 def prime?(x) # define a method prime and it takes in a number as an argument
-  
+  x = #create a range of numbers
   if x <= 1 # create a conditional statement to determine if x is a prime number
   return false
-  elsif (x)
+  elsif 
+  
+  # Check from 2 to n-1 
+    for i in range(2, n): 
+        if (n % i == 0): 
+            return False
 end
 
 
