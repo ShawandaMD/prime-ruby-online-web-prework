@@ -6,7 +6,7 @@ require "pry"
 # prime is true and if it's not its false
 
 def prime?(x) # define a method prime and it takes in a number as an argument
-  x = (2..x) #create a range of numbers
+  x = (2..40) #create a range of numbers
   #array = (x).to_a
   if x <= 1  # create a conditional statement to determine if x is a prime number
     return False
