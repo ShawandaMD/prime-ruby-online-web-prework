@@ -1,7 +1,9 @@
 require "pry"
 
-
-
+#Psuedo code 
+# 
+#
+#
 
 
 
