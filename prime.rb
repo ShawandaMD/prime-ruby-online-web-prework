@@ -5,6 +5,7 @@ require "pry"
 # create a conditional statement to determine if x is a prime number
 # prime is true and if it's not its false
 
+def
 
 
 
@@ -19,18 +20,17 @@ require "pry"
 
 
 
-def prime?(x)
-  x = 1..
-  while x <= 1 || (x > 3 && x % x == 0 && ( x % 2 == 0 || x % 3 == 0 ))
-  return false
+#def prime?(x)
+ # x = 1..
+  #while x <= 1 || (x > 3 && x % x == 0 && ( x % 2 == 0 || x % 3 == 0 ))
+  #return false
   #else 
   #return true
-  end
+  #end
   
-binding.pry
-end
+#binding.pry
+#end
 
 prime?(2)
 
 
-#x.each {|x| if
