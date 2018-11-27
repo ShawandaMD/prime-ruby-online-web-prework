@@ -36,6 +36,6 @@ end
 #binding.pry
 #end
 
-prime?(2)
+#prime?(2)
 
 
