@@ -1,9 +1,10 @@
 require "pry"
 
 #Psuedo code 
-# 
-#
-#
+# define a method prime and it takes in a number as an argument
+# create a conditional statement to determine if x is a prime number
+# prime is true and if it's not its false
+
 
 
 
